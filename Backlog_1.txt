@@ -1,0 +1,15 @@
+As a player you can create a profile.
+As a player you can delete a profile.
+As a player you can view the profile that you have created. 
+As a player you can select a mode, either Time Trial or Campaign.
+As a player you can select stages to play
+As a player you can replay a stage. 
+As a player you can pause a stage at any point. 
+As a player you can restart a stage from the pause screen.
+As a player you can exit a stage from the pause screen. 
+As a player you can select condiments and ingredients to build food items. 
+As a player you can scan through the list of purchaseable items in the game store.
+As a player you can purchase ingredients and condiments for use in stages. 
+As a player you can purchase ugrades in the store for foods ans transport.
+As a player the back button on a device will take you to the pause screen if you are in a stage.
+As a player the back button on a device will resume the stage if you are on the pause screen.
