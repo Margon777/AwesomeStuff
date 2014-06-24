@@ -27,8 +27,8 @@
         android:paddingRight="20dp" >
 
         <Button
-            android:id="@+id/button1"
-            android:layout_width="0 dip"
+            android:id="@+id/Btn_New_Game"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="left"
             android:layout_weight="1.15"
@@ -39,7 +39,7 @@
        </LinearLayout>
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/Btn_Continue"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"

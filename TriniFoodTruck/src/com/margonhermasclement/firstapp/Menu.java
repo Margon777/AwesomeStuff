@@ -13,6 +13,18 @@ public class Menu extends ActionBarActivity{
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		
+		Button Cont = (Button) findViewById(R.id.Btn_Continue);
+		Cont.setOnClickListener(new View.OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				// TODO Auto-generated method stub
+				
+				startActivity(new Intent("com.margonhermasclement.firstapp.HomePage"));
+				
+			}
+		});
 			
 		};
 	
