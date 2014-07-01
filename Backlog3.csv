@@ -1,0 +1,46 @@
+ID,Theme,Story,So that..,Estimation,Priority,Status
+1,,As a player you can see the worktable and ingredients to be used to make the food,The player can seee everything that he has to interact with to play any single stage.,13,1,in progress
+2,,As a player you can move ingredients to the work table to make food,The player can build food on the work table with purshacesed ingredients in order to progress through the stage,5,2,in progress
+3,,As a player you can touch the serve button to serve completed food and gain rewards,"The player can either complete the transaction with the customer or ""trash"" and incorrect order.",3,3,in progress
+4,,"As a player you gain money and ""Burst Points"" for every successful serving",Rewards can be gained throughout the stage as the player serves more and more food. ,1,4,in progress
+5,,As a player you gain no money and lose burst points for every unsuccessful serving.,The player is encouraged to  work quickly and accurately.,1,5,in progress
+6,,"As a player you can use the filled ""Burst Point"" meter to gain bonus revenue.",added feature to make the game more exciting,3,6,in progress
+7,,As a player you can select stages to play,the illusion of progress can be maintained,2,7,in progress
+8,,As a player you can replay a stage. ,if a player cannot beat a stage they can gather materials from old stages to held them progress,2,8,in progress
+9,,As a player you can pause a stage at any point  bring up the pause screen and menu using an in stage pause button.,the game can be stopped and restarted within the stage in case of emergency.,2,9,in progress
+10,,As a player you can restart a stage from the pause screen.,the player does not have to reach the end of a bad playthrough to try the stage again.,3,10,in progress
+11,,As a player you can exit a stage from the pause screen. ,the game ca be stopped.,3,11,in progress
+14,,As a player you can scan through the list of purchaseable items in the game store.,"The player can buy its to upgrade their food cart, food items, boost meeter etc.",1,14,in progress
+15,,As a player you can purchase ingredients and condiments for use in stages. ,The player has the added task of managing their stock when they go to the shop,1,15,in progress
+16,,As a player you can purchase ugrades in the store.,Playing future stages would be made easier.,2,16,in progress
+17,,As a player you can create a profile.,The player can have more that one playthrough simultaneously,13,17,in progress
+18,,As a player you can delete a profile.,The player can delete old profiels that they no longer want,8,18,in progress
+19,,As a player you can view the profile that you have created. ,the player can see the profiles and not accidentally delete files that they still want,8,19,in progress
+20,,As a player the back button on a device will take you to the pause screen if you are in a stage.,When the back button is pressed the application would act as though the pause button is pressed,5,20,in progress
+21,,As a player the back button on a device will resume the stage if you are on the pause screen.,When the back button is pressed the application would act as though the resume button is pressed,5,21,in progress
+22,,,,,,
+23,,,,,,
+24,,,,,,
+25,,,,,,
+26,,,,,,
+27,,,,,,
+28,,,,,,
+29,,,,,,
+30,,,,,,
+31,,,,,,
+32,,,,,,
+33,,,,,,
+34,,,,,,
+35,,,,,,
+36,,,,,,
+37,,,,,,
+38,,,,,,
+39,,,,,,
+40,,,,,,
+41,,,,,,
+42,,,,,,
+43,,,,,,
+44,,,,,,
+45,,,,,,
+46,,,,,,
+47,,,,,,
