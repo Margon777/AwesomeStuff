@@ -1,0 +1,16 @@
+ID,Story,Estimation,Priority
+5,As a player you can select stages to play,3,1
+6,As a player you can replay a stage. ,2,2
+7,As a player you can pause a stage at any point. ,1,3
+8,As a player you can restart a stage from the pause screen.,1,4
+9,As a player you can exit a stage from the pause screen. ,1,5
+4,"As a player you can select a mode, either Time Trial or Campaign.",3,6
+10,As a player you can select condiments and ingredients to build food items. ,2,7
+11,As a player you can scan through the list of purchaseable items in the game store.,2,8
+12,As a player you can purchase ingredients and condiments for use in stages. ,2,9
+13,As a player you can purchase ugrades in the store for foods ans transport.,3,10
+1,As a player you can create a profile.,3,11
+2,As a player you can delete a profile.,3,12
+3,As a player you can view the profile that you have created. ,2,13
+14,As a player the back button on a device will take you to the pause screen if you are in a stage.,1,14
+15,As a player the back button on a device will resume the stage if you are on the pause screen.,1,15

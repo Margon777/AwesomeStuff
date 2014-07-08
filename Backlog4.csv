@@ -1,0 +1,20 @@
+ID,As a,I want to,So that..,Estimation,Priority,Status
+1,Player , see the worktable and ingredients to be used to make the food,I can see everything that I have to interact with to play any single stage.,13,1,in progress
+2,Player ,move ingredients to the work table to make food,I can build food on the work table with purchased ingredients in order to progress through the stage,5,2,in progress
+3,Player ,touch the serve button to serve completed food and gain rewards,"I  can either complete the transaction with the customer or ""trash"" and incorrect order.",3,3,in progress
+4,Player ,"gain money and ""Burst Points"" for every successful serving",Rewards can be gained throughout the stage as the player serves more and more food. ,1,4,On hold
+5,Player , gain no money and lose burst points for every unsuccessful serving.,I am encouraged to  work quickly and accurately.,1,5,On hold
+6,Player ," use the filled ""Burst Point"" meter to gain bonus revenue.",I have an added feature to make the game more exciting,3,6,On hold
+7,Player , select stages to play,I have the illusion of progress can be made,2,7,On hold
+8,Player , replay a stage. ,if a Ir cannot beat a stage I can gather materials from old stages to help em progress,2,8,On hold
+9,Player , pause a stage at any point  bring up the pause screen and menu using an in stage pause button.,the game can be stopped and restarted within the stage in case of emergency.,2,9,On hold
+10,Player , restart a stage from the pause screen.,I do not have to reach the end of a bad playthrough to try the stage again.,3,10,On hold
+11,Player ,exit a stage from the pause screen. ,the game can be stopped.,3,11,On hold
+14,Player , scan through the list of purchaseable items in the game store.,"I can buy it to upgrade their food cart, food items, boost meeter etc.",1,14,On hold
+15,Player , purchase ingredients and condiments for use in stages. ,I have the added task of managing their stock when they go to the shop,1,15,On hold
+16,Player , purchase ugrades in the store.,Playing future stages would be made easier.,2,16,On hold
+17,Player ,create a profile.,I can have more that one playthrough simultaneously,13,17,On hold
+18,Player ,delete a profile.,I can delete old profiles that they no longer want,8,18,On hold
+19,Player , view the profile that I have created. ,I can see the profiles and not accidentally delete files that they still want,8,19,On hold
+20,Player ,use the back button on a device to take me to the pause screen if I am in a stage.,When the back button is pressed the application would act as though the pause button is pressed,5,20,On hold
+21,Player ,use the back button on a device to resume the stage if I am on the pause screen.,When the back button is pressed the application would act as though the resume button is pressed,5,21,On hold
