@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TableRow android:layout_height = "wrap_content">
+
+        <TextView
+            android:id="@+id/timer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        
+        <TextView
+        android:id="@+id/Money"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Pricing"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="right"
+        android:layout_weight="1"
+         />
+        
+    </TableRow>
+	<TableRow android:layout_height = "wrap_content">
+	    
+	    
+	      <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" />
+	      
+	     <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" />
+	    
+	    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" />
+
+
+	    
+	</TableRow>
+	<TableRow android:layout_height = "wrap_content">
+     <ImageButton
+        android:id="@+id/thirItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bara" 
+        android:background="@null"
+        />
+      <ImageButton
+        android:id="@+id/sevItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pholourie"
+        android:background="@null"
+        />
+  
+
+    <ImageButton
+        android:id="@+id/ninItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/aloo_pie"
+        android:background="@null"
+        />
+ </TableRow>
+
+ 
+  
+ <TableRow android:layout_height = "wrap_content">
+    
+     <ImageButton
+        android:id="@+id/eigItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/chicken"
+        android:background="@null"
+        />
+      <ImageButton
+        android:id="@+id/fourItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/channa" 
+		android:background="@null"
+        />
+     
+ </TableRow>
+ 
+  <TableRow android:layout_height = "wrap_content">
+     <ImageButton
+        android:id="@+id/fifItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/chadon" 
+		android:background="@null"
+        />
+
+    <ImageButton
+        android:id="@+id/sixItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pepper"
+        android:background="@null"
+        />
+     
+ </TableRow>
+ 
+ <TableRow android:layout_height = "wrap_content">
+
+     <ImageView
+         android:id="@+id/Ans1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:src="@drawable/chicken" />
+     
+       <ImageView
+         android:id="@+id/Ans2"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:src="@drawable/chicken" />
+       
+         <ImageView
+         android:id="@+id/Ans3"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:src="@drawable/chicken" />
+     
+ </TableRow>
+   
+   
+ <TableRow android:layout_height = "wrap_content">
+
+ <ImageButton
+        android:id="@+id/secItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/serve" 
+		android:background="@null"
+        />
+  </TableRow>
+ 
+</TableLayout>
